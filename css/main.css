@@ -95,7 +95,12 @@ ul li{
     grid-row-gap: 0px;
     margin-top: 10px;
     margin-bottom: 280px;
+
 }
+.grid-menu img:hover{
+    transform: scale(1.15);
+}
+
 
 h2{
     text-align: center;
